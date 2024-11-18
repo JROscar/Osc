@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oscaryao/RiderProjects/Osc/Osc.csproj": {}
+  },
+  "projects": {
+    "/Users/oscaryao/RiderProjects/Osc/Osc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oscaryao/RiderProjects/Osc/Osc.csproj",
+        "projectName": "Osc.Net.WebApi",
+        "projectPath": "/Users/oscaryao/RiderProjects/Osc/Osc.csproj",
+        "packagesPath": "/Users/oscaryao/.nuget/packages/",
+        "outputPath": "/Users/oscaryao/RiderProjects/Osc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oscaryao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/Osc.Net.Model.csproj": {
+                "projectPath": "/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/Osc.Net.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/oscaryao/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/Osc.Net.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/Osc.Net.Model.csproj",
+        "projectName": "Osc.Net.Model",
+        "projectPath": "/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/Osc.Net.Model.csproj",
+        "packagesPath": "/Users/oscaryao/.nuget/packages/",
+        "outputPath": "/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oscaryao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/oscaryao/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

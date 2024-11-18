@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osc", "Osc.csproj", "{1ED9F7DB-C899-4A5F-95DA-85D91F6ACEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osc.Net.Model", "Osc.Net.Model\Osc.Net.Model.csproj", "{3725935D-E18D-4667-B779-08BF3E61DA09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OscBase", "OscBase", "{152480C8-BA6F-4DAE-84A4-27DB132A39EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RMB", "RMB", "{8F537198-F02F-4C86-B5C9-415C6642D7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osc.Rmb.Model", "Osc.Rmb.Model\Osc.Rmb.Model.csproj", "{58E28C6B-9835-42AF-A67F-F977CFE2989E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED9F7DB-C899-4A5F-95DA-85D91F6ACEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED9F7DB-C899-4A5F-95DA-85D91F6ACEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED9F7DB-C899-4A5F-95DA-85D91F6ACEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED9F7DB-C899-4A5F-95DA-85D91F6ACEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3725935D-E18D-4667-B779-08BF3E61DA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3725935D-E18D-4667-B779-08BF3E61DA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3725935D-E18D-4667-B779-08BF3E61DA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3725935D-E18D-4667-B779-08BF3E61DA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E28C6B-9835-42AF-A67F-F977CFE2989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E28C6B-9835-42AF-A67F-F977CFE2989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E28C6B-9835-42AF-A67F-F977CFE2989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E28C6B-9835-42AF-A67F-F977CFE2989E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1ED9F7DB-C899-4A5F-95DA-85D91F6ACEC0} = {152480C8-BA6F-4DAE-84A4-27DB132A39EF}
+		{3725935D-E18D-4667-B779-08BF3E61DA09} = {152480C8-BA6F-4DAE-84A4-27DB132A39EF}
+		{58E28C6B-9835-42AF-A67F-F977CFE2989E} = {8F537198-F02F-4C86-B5C9-415C6642D7E8}
+	EndGlobalSection
+EndGlobal

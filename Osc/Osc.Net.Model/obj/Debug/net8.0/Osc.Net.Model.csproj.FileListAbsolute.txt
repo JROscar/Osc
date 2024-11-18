@@ -1,0 +1,11 @@
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/Osc.Net.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/Osc.Net.Model.AssemblyInfoInputs.cache
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/Osc.Net.Model.AssemblyInfo.cs
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/Osc.Net.Model.csproj.CoreCompileInputs.cache
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/bin/Debug/net8.0/Osc.Net.Model.deps.json
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/bin/Debug/net8.0/Osc.Net.Model.dll
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/bin/Debug/net8.0/Osc.Net.Model.pdb
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/Osc.Net.Model.dll
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/refint/Osc.Net.Model.dll
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/Osc.Net.Model.pdb
+/Users/oscaryao/RiderProjects/Osc/Osc.Net.Model/obj/Debug/net8.0/ref/Osc.Net.Model.dll

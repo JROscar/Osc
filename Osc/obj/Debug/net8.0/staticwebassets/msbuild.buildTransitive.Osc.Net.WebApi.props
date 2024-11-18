@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Osc.Net.WebApi.props" />
+</Project>
